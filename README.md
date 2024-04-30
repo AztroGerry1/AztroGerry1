@@ -2,7 +2,7 @@
 
 <hr>
 
-# :trident::trident::trident::trident::trident::trident::trident::trident::trident::trident::trident::trident:  AztroGerry :trident::trident::trident::trident::trident::trident::trident::trident::trident::trident::trident::trident::trident:  
+# :trident::trident::trident::trident::trident::trident::trident::trident::trident::trident:  AztroGerry :trident::trident::trident::trident::trident::trident::trident::trident::trident::trident::trident:  
 
 ## ¿Quien soy?
 
